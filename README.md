@@ -1,0 +1,2 @@
+# CppJourney
+Learning C++ basics 
