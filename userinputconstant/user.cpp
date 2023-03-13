@@ -2,9 +2,15 @@
 using namespace std;
 
 int main() { 
-   int x, y = 3;
-   string nameOfUser = "Alejo";
-   cout << nameOfUser;
+   int n, x;
+   cin >> n;
+   cout << n;
+   cin.clear();
+   cin.ignore(1000, '\n');
+   cin >> x;
+   cout << x;
+   cout << cin.fail();
+
 }
 
 // basic comments in c++ 
