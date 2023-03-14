@@ -8,7 +8,7 @@ int main(){
     int arr[] = {4,5,6,7};
     string arr2[]= {"henk", "alejo", "good"};
     float arr3[] = {1.1, 2.2, 3.3, 4,5};
-
+    // to find the length in a array.
     cout << sizeof(arr2)/sizeof(arr2[0]);
 
     
